@@ -1,0 +1,7 @@
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\obj\Debug\InterfacePrinter.csprojAssemblyReference.cache
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\obj\Debug\InterfacePrinter.csproj.CoreCompileInputs.cache
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\bin\Debug\InterfacePrinter.exe.config
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\bin\Debug\InterfacePrinter.exe
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\bin\Debug\InterfacePrinter.pdb
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\obj\Debug\InterfacePrinter.exe
+D:\18.11.2279\10\InterfacePrinter\InterfacePrinter\obj\Debug\InterfacePrinter.pdb
